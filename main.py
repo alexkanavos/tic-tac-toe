@@ -1,5 +1,5 @@
-from app import app
+from game import tic_tac_toe
 
 
 if __name__ == "__main__":
-    app.tic_tac_toe()
+    tic_tac_toe()

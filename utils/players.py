@@ -9,8 +9,8 @@ def choose_first_player() -> str:
     return first_player
 
 
-def switch_player(current_player: str) -> str:
+def switch_player(player: str) -> str:
     for item in PLAYERS:
-        if item != current_player:
+        if item != player:
             next_player = item
     return next_player
