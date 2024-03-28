@@ -7,7 +7,6 @@ A text-based version of the Tic Tac Toe game built with Python.
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -16,13 +15,6 @@ A text-based version of the Tic Tac Toe game built with Python.
 ## Introduction
 
 This is a simple text-based implementation of the classic Tic Tac Toe game using Python. The game allows two players to play against each other on the command line interface.
-
-## Requirements
-
-To run this Tic Tac Toe game, you need to have the following installed:
-
-- Python 3.x
-- NumPy library
 
 ## Installation
 
@@ -56,15 +48,7 @@ Follow the on-screen instructions to play the game. Players will take turns inpu
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/YourFeature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin feature/YourFeature`)
-5. Create a new Pull Request
-
-Please make sure to update tests as appropriate.
+Contributions are welcome! If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
 
 ## License
 
